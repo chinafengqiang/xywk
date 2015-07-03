@@ -153,6 +153,9 @@ $(function() {
 			var url = '/xy/category/addCategory?pid=${pid}';
 			addrow('添加管理员',url,'dataTB',600,400);
 		}
+		
+		
+		
 </script>
 <div>
 	<div style="width: 100%; text-align: center;">
